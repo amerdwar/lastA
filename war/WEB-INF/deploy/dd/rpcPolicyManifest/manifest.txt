@@ -1,0 +1,3 @@
+# Module dd
+# RPC service class, partial path of RPC policy file
+aa.client.GreetingService, 850DB1168DA70CD939C65788D4D8FB15.gwt.rpc
